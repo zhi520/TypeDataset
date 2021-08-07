@@ -1,0 +1,213 @@
+SoccerClub SportsSeason SportsTeamSeason	0
+owl#Thing	1
+Person Sportscaster	2
+Place Location Settlement	3
+Place Location ArchitecturalStructure	4
+Person Referee	5
+Event DUL.owl#Event Q1656682	6
+Agent DUL.owl#Agent Q24229398	7
+Team Record	8
+SportsSeason SportsTeamSeason NCAATeamSeason	9
+Event Q1656682 DUL.owl#Event	10
+Crows	11
+Tournament	12
+Settlement Town SoccerClub	13
+SportsTeam Clubs	14
+TelevisionShow University Program	15
+Person Agent DUL.owl#Agent	16
+SoccerClub SportsSeason FootballLeagueSeason	17
+Agent Squads	18
+Organization Article List	19
+Place Location PopulatedPlace	20
+SportsSeason FootballLeagueSeason SportsTeamSeason	21
+List	22
+SportsSeason SportsTeamSeason Season	23
+Person University Member	24
+Article Season	25
+Stadium	26
+OfficeHolder SoccerClub SportsSeason	27
+SportsSeason SportsTeamSeason SoccerClubSeason	28
+SoccerClub SportsSeason City	29
+Award Trophy	30
+Village City	31
+Work Q386724 CreativeWork	32
+OfficeHolder SportsSeason SportsTeamSeason	33
+Person SportsSeason SportsTeamSeason	34
+Season	35
+FootballLeagueSeason Season	36
+Plant SoccerClub SportsSeason	37
+Building Home	38
+BaseballPlayer Rosters	39
+SportsTeam SportsSeason FootballLeagueSeason	40
+Work CreativeWork Q386724	41
+Organisation Division	42
+Agent DUL.owl#Agent Organisation	43
+SoccerTournament Competition	44
+University	45
+Cheltenham	46
+SportFacility Ground	47
+AdministrativeRegion Country County	48
+SoccerClubSeason Rovers	49
+Competition	50
+Person Place Location	51
+Settlement City Country	52
+SportsEvent Cup	53
+Insect SoccerClub SportsSeason	54
+Organisation SportsSeason SportsTeamSeason	55
+Title HorseRace	56
+Article List	57
+Settlement Town SportsSeason	58
+Article Competition	59
+Redirect SportsSeason SportsTeamSeason	60
+SportsTeam SportsSeason SportsTeamSeason	61
+Article SoccerClub Season	62
+Settlement City Municipality	63
+Season Competition League	64
+Playoffs	65
+OfficeHolder SportsSeason FootballLeagueSeason	66
+SoccerClubSeason C	67
+Place Spit	68
+SportsSeason SportsTeamSeason United	69
+Event Dates	70
+Event SportsEvent	71
+Competition Championship	72
+MusicGenre TopicalConcept Genre	73
+Settlement Town City	74
+Organisation Predecessor	75
+MusicalArtist Country	76
+MusicalWork SoccerClub SportsSeason	77
+Organisation SoccerClub Boards	78
+Article Season Page	79
+SportsTeam SoccerClub SportsSeason	80
+Organisation Boards	81
+Place SoccerClub SportsSeason	82
+Person SoccerClub SportsSeason	83
+Organisation Chapter	84
+Person May	85
+Redirect Season	86
+Organisation University Division	87
+Person McKendrick	88
+Place Location ProtectedArea	89
+Building Venue	90
+SportsEvent Time	91
+Event Postseason	92
+TelevisionShow Series	93
+Settlement City	94
+Person Event DUL.owl#Event	95
+Person Madden	96
+Organisation Organization	97
+SoccerTournament Competition League	98
+Person Referees	99
+Article Team Venue	100
+Year	101
+Stadium Arena	102
+Single SoccerClub SportsSeason	103
+Redirect	104
+Company Positions	105
+Place Location Work	106
+Broadcaster Sports	107
+Settlement Country Province	108
+SoccerTournament Edition	109
+HorseRace	110
+Person Stage	111
+Settlement Municipality Country	112
+Place City Area	113
+Person Position	114
+Company Event Q1656682	115
+Organisation SoccerClub SportsSeason	116
+MilitaryConflict Phase	117
+SoccerClubSeason Summary	118
+City	119
+Organization List Redirect	120
+Person Champion	121
+TelevisionShow Event DUL.owl#Event	122
+Company Madrid	123
+Team	124
+Settlement Borough	125
+Settlement Company City	126
+SoccerClub SportsSeason AdministrativeRegion	127
+Team Venue Attraction	128
+School SportsTeam Team	129
+Place Location Organisation	130
+Eukaryote SoccerClub SportsSeason	131
+Book SportsSeason SportsTeamSeason	132
+SportsTeamMember Lists	133
+Article Redirect SportsTeam	134
+Article Redirect SoccerTournament	135
+Settlement AdministrativeRegion Country	136
+HistoricBuilding Grade	137
+SportCompetitionResult OlympicResult	138
+Settlement Zone	139
+Article Team Page	140
+MilitaryConflict Campaign	141
+Person Event Q1656682	142
+SportsSeason City SportsTeamSeason	143
+Baskonia	144
+TelevisionShow Event Q1656682	145
+City Museum	146
+Person Age	147
+Article Redirect SoccerClub	148
+School	149
+Person Member	150
+Place Event DUL.owl#Event	151
+Venue Attraction	152
+Settlement Country GovernmentAgency	153
+SportsEvent Race HorseRace	154
+Athlete Player	155
+Agent Place Location	156
+SportsTeam University Team	157
+Athlete Player SoccerClub	158
+Team Match	159
+Agent DUL.owl#Agent Place	160
+Single SportsSeason SportsTeamSeason	161
+Settlement City Capital	162
+Building SoccerClub SportsSeason	163
+SportsTeam Team	164
+United	165
+Country	166
+Person RecordLabel American	167
+Settlement SoccerClub Municipality	168
+Settlement Town	169
+OfficeHolder Premier	170
+Settlement District	171
+Place Location Athlete	172
+Article Redirect Type	173
+Article Redirect Season	174
+Village	175
+MusicGenre Criminal Abuse	176
+Single SportsSeason FootballLeagueSeason	177
+City Country	178
+Person English	179
+PopulatedPlace SportCompetitionResult OlympicResult	180
+Season Competition	181
+Person Players	182
+Single MusicGenre Mode	183
+Organisation Country Unit	184
+Album Compilation	185
+Article Team	186
+Agent Event Q1656682	187
+Settlement Municipality	188
+Article Redirect Agency	189
+SoccerTournament Staging	190
+School Roman	191
+TennisTournament Tournaments	192
+Redirect Team	193
+Person Commentator	194
+Place Location Organization	195
+Person Murray	196
+Athlete Football	197
+FootballLeagueSeason	198
+TelevisionShow School Program	199
+Cricketer Test	200
+List District Area	201
+SportsSeason University SportsTeamSeason	202
+Organization List	203
+Article List Redirect	204
+Person Analyst	205
+Article Event Q1656682	206
+Insect Stadium Cricket	207
+Building Stadium Center	208
+Person Guards	209
+Organisation Fraternity	210
+Article Season Competition	211
+Sport Level	212
